@@ -4,8 +4,7 @@
 This repository contains a Power BI report (`Prodigy Task-1.pbix`) that provides insights into population trends using interactive visualizations.
 
 ## 🖼️ Report Preview
- Power BI Report  (Task-1 Preview.png)
-
+![Power BI Report](https://raw.githubusercontent.com/Manitej-04/Projects/main/Task-1%20preview.png)
 ## 📂 Files
 - **Prodigy Task-1.pbix** - The Power BI report file.
 
